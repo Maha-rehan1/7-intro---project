@@ -1,0 +1,19 @@
+h3{
+    color: cornsilk;
+    background-color: darkcyan;
+
+}
+#id{
+    color: bisque;
+    background-color: coral;
+}
+.sm{
+    text-decoration: underline;
+}
+*{
+    font-size: 40px;
+}
+h4,h5{
+    color: cornsilk;
+    background-color:darkred;
+}
